@@ -17,3 +17,4 @@ async def main():
     await asyncio.gather(*tasks)  # запускаем все задачи из списка tasks
 
 asyncio.run(main())
+
