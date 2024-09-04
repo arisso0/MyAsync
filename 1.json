@@ -1,0 +1,2720 @@
+[
+  {
+    "id": 28,
+    "title": "Рок",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 29,
+    "title": "Поп",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 30,
+    "title": "Шоу",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 31,
+    "title": "Мюзикл",
+    "parent_id": null,
+    "category_type_id": 68
+  },
+  {
+    "id": 32,
+    "title": "Шансон",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 33,
+    "title": "Рэп",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 34,
+    "title": "Танец",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 35,
+    "title": "Другое",
+    "parent_id": null,
+    "category_type_id": 35
+  },
+  {
+    "id": 36,
+    "title": "Классика",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 37,
+    "title": "Эстрада",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 38,
+    "title": "Форум",
+    "parent_id": 77,
+    "category_type_id": 35
+  },
+  {
+    "id": 39,
+    "title": "Футбол",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 40,
+    "title": "Электронная музыка",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 41,
+    "title": "Балет",
+    "parent_id": null,
+    "category_type_id": 68
+  },
+  {
+    "id": 42,
+    "title": "Творческий вечер",
+    "parent_id": null,
+    "category_type_id": 68
+  },
+  {
+    "id": 43,
+    "title": "Художественная гимнастика",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 44,
+    "title": "Детям",
+    "parent_id": null,
+    "category_type_id": 44
+  },
+  {
+    "id": 45,
+    "title": "Джаз и блюз",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 46,
+    "title": "Спектакль",
+    "parent_id": null,
+    "category_type_id": 68
+  },
+  {
+    "id": 47,
+    "title": "Оперетта",
+    "parent_id": null,
+    "category_type_id": 68
+  },
+  {
+    "id": 48,
+    "title": "Юмористическое шоу",
+    "parent_id": 30,
+    "category_type_id": 57
+  },
+  {
+    "id": 49,
+    "title": "Хоккей",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 51,
+    "title": "Спорт",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 52,
+    "title": "Народная песня",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 54,
+    "title": "Оркестр",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 55,
+    "title": "Ансамбль",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 56,
+    "title": "Фигурное катание",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 57,
+    "title": "Концерт",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 59,
+    "title": "Опера",
+    "parent_id": null,
+    "category_type_id": 68
+  },
+  {
+    "id": 61,
+    "title": "Инструментальная музыка",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 62,
+    "title": "Хор",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 63,
+    "title": "Метал",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 65,
+    "title": "Техно",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 66,
+    "title": "Цирк",
+    "parent_id": null,
+    "category_type_id": 44
+  },
+  {
+    "id": 67,
+    "title": "Тренинг",
+    "parent_id": 77,
+    "category_type_id": 35
+  },
+  {
+    "id": 68,
+    "title": "Театр",
+    "parent_id": null,
+    "category_type_id": 68
+  },
+  {
+    "id": 69,
+    "title": "Баскетбол",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 73,
+    "title": "Хип-хоп",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 75,
+    "title": "Новогоднее",
+    "parent_id": null,
+    "category_type_id": 35
+  },
+  {
+    "id": 76,
+    "title": "Новогоднее мероприятие",
+    "parent_id": null,
+    "category_type_id": 44
+  },
+  {
+    "id": 77,
+    "title": "Образование",
+    "parent_id": null,
+    "category_type_id": 35
+  },
+  {
+    "id": 82,
+    "title": "Фестиваль",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 84,
+    "title": "Драма",
+    "parent_id": null,
+    "category_type_id": 68
+  },
+  {
+    "id": 85,
+    "title": "Комедия",
+    "parent_id": null,
+    "category_type_id": 68
+  },
+  {
+    "id": 88,
+    "title": "Иммерсивный спектакль",
+    "parent_id": 46,
+    "category_type_id": 68
+  },
+  {
+    "id": 89,
+    "title": "Моноспектакль",
+    "parent_id": null,
+    "category_type_id": 68
+  },
+  {
+    "id": 91,
+    "title": "Киберспорт",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 93,
+    "title": "Трагикомедия",
+    "parent_id": null,
+    "category_type_id": 68
+  },
+  {
+    "id": 94,
+    "title": "Трагедия",
+    "parent_id": null,
+    "category_type_id": 68
+  },
+  {
+    "id": 96,
+    "title": "Смешанные единоборства",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 97,
+    "title": "Гандбол",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 98,
+    "title": "Волейбол",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 99,
+    "title": "Гонки",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 100,
+    "title": "Мелодрама",
+    "parent_id": null,
+    "category_type_id": 68
+  },
+  {
+    "id": 102,
+    "title": "Симфоническая музыка",
+    "parent_id": 46,
+    "category_type_id": 68
+  },
+  {
+    "id": 103,
+    "title": "Семинар",
+    "parent_id": 77,
+    "category_type_id": 35
+  },
+  {
+    "id": 104,
+    "title": "Выставка",
+    "parent_id": null,
+    "category_type_id": 35
+  },
+  {
+    "id": 105,
+    "title": "Мастер-класс",
+    "parent_id": 77,
+    "category_type_id": 35
+  },
+  {
+    "id": 107,
+    "title": "Инди",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 109,
+    "title": "Экскурсия",
+    "parent_id": null,
+    "category_type_id": 35
+  },
+  {
+    "id": 110,
+    "title": "Рок-опера",
+    "parent_id": null,
+    "category_type_id": 68
+  },
+  {
+    "id": 111,
+    "title": "Народное шоу",
+    "parent_id": 30,
+    "category_type_id": 57
+  },
+  {
+    "id": 112,
+    "title": "Спортивное шоу",
+    "parent_id": 30,
+    "category_type_id": 57
+  },
+  {
+    "id": 113,
+    "title": "Детское шоу",
+    "parent_id": 30,
+    "category_type_id": 57
+  },
+  {
+    "id": 114,
+    "title": "Танцевальное шоу",
+    "parent_id": 30,
+    "category_type_id": 57
+  },
+  {
+    "id": 115,
+    "title": "Конное шоу",
+    "parent_id": 30,
+    "category_type_id": 57
+  },
+  {
+    "id": 116,
+    "title": "Эротическое шоу",
+    "parent_id": 30,
+    "category_type_id": 57
+  },
+  {
+    "id": 117,
+    "title": "Снежное шоу",
+    "parent_id": 30,
+    "category_type_id": 57
+  },
+  {
+    "id": 118,
+    "title": "Лётное шоу",
+    "parent_id": 30,
+    "category_type_id": 57
+  },
+  {
+    "id": 119,
+    "title": "Ледовое шоу",
+    "parent_id": 30,
+    "category_type_id": 57
+  },
+  {
+    "id": 120,
+    "title": "Автошоу",
+    "parent_id": 30,
+    "category_type_id": 57
+  },
+  {
+    "id": 121,
+    "title": "Мистическое шоу",
+    "parent_id": 30,
+    "category_type_id": 57
+  },
+  {
+    "id": 122,
+    "title": "Comedy Club",
+    "parent_id": 30,
+    "category_type_id": 57
+  },
+  {
+    "id": 123,
+    "title": "Stand Up",
+    "parent_id": 30,
+    "category_type_id": 57
+  },
+  {
+    "id": 125,
+    "title": "Иллюзионисты",
+    "parent_id": 30,
+    "category_type_id": 57
+  },
+  {
+    "id": 126,
+    "title": "Цирк на проспекте Вернадского",
+    "parent_id": 66,
+    "category_type_id": 44
+  },
+  {
+    "id": 127,
+    "title": "Цирк на Цветном бульваре",
+    "parent_id": 66,
+    "category_type_id": 44
+  },
+  {
+    "id": 128,
+    "title": "Дельфинарий",
+    "parent_id": 66,
+    "category_type_id": 44
+  },
+  {
+    "id": 129,
+    "title": "Цирк Братьев Запашных",
+    "parent_id": 66,
+    "category_type_id": 44
+  },
+  {
+    "id": 130,
+    "title": "Уголок дедушки Дурова",
+    "parent_id": 66,
+    "category_type_id": 44
+  },
+  {
+    "id": 131,
+    "title": "Цирк Дю Солей",
+    "parent_id": 66,
+    "category_type_id": 44
+  },
+  {
+    "id": 132,
+    "title": "Цирк Аквамарин",
+    "parent_id": 66,
+    "category_type_id": 44
+  },
+  {
+    "id": 133,
+    "title": "Цирк на фонтанке",
+    "parent_id": 66,
+    "category_type_id": 44
+  },
+  {
+    "id": 134,
+    "title": "Театр кошек Куклачева",
+    "parent_id": 66,
+    "category_type_id": 44
+  },
+  {
+    "id": 135,
+    "title": "Цирк в Сокольниках",
+    "parent_id": 66,
+    "category_type_id": 44
+  },
+  {
+    "id": 136,
+    "title": "Цирк Радуга",
+    "parent_id": 66,
+    "category_type_id": 44
+  },
+  {
+    "id": 137,
+    "title": "Сочинский Цирк",
+    "parent_id": 66,
+    "category_type_id": 44
+  },
+  {
+    "id": 138,
+    "title": "Океанариум",
+    "parent_id": 66,
+    "category_type_id": 44
+  },
+  {
+    "id": 139,
+    "title": "Кукольный театр",
+    "parent_id": null,
+    "category_type_id": 44
+  },
+  {
+    "id": 140,
+    "title": "Детский спектакль",
+    "parent_id": null,
+    "category_type_id": 44
+  },
+  {
+    "id": 141,
+    "title": "Детский концерт",
+    "parent_id": null,
+    "category_type_id": 44
+  },
+  {
+    "id": 142,
+    "title": "Сказка",
+    "parent_id": null,
+    "category_type_id": 44
+  },
+  {
+    "id": 143,
+    "title": "Музыкальная сказка",
+    "parent_id": null,
+    "category_type_id": 44
+  },
+  {
+    "id": 144,
+    "title": "Опера-сказка",
+    "parent_id": null,
+    "category_type_id": 44
+  },
+  {
+    "id": 145,
+    "title": "Аквапарк",
+    "parent_id": null,
+    "category_type_id": 44
+  },
+  {
+    "id": 146,
+    "title": "Детский мюзикл",
+    "parent_id": null,
+    "category_type_id": 44
+  },
+  {
+    "id": 147,
+    "title": "Теннис",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 148,
+    "title": "Бокс",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 149,
+    "title": "Спортивные танцы",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 150,
+    "title": "Гимнастика",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 151,
+    "title": "Скачки",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 152,
+    "title": "Биатлон",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 153,
+    "title": "Легкая атлетика",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 154,
+    "title": "Регби",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 155,
+    "title": "Фехтование",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 156,
+    "title": "Кино",
+    "parent_id": null,
+    "category_type_id": 35
+  },
+  {
+    "id": 157,
+    "title": "Новый год",
+    "parent_id": null,
+    "category_type_id": 35
+  },
+  {
+    "id": 158,
+    "title": "Новогодняя ёлка",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 159,
+    "title": "Новогодняя ночь",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 160,
+    "title": "Новогоднее шоу",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 161,
+    "title": "Новогодние концерты",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 162,
+    "title": "Новогодняя дискотека",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 163,
+    "title": "Новогодняя экскурсия",
+    "parent_id": 109,
+    "category_type_id": 35
+  },
+  {
+    "id": 164,
+    "title": "Однодневная экскурсия",
+    "parent_id": 109,
+    "category_type_id": 35
+  },
+  {
+    "id": 165,
+    "title": "Многодневная экскурсия",
+    "parent_id": 109,
+    "category_type_id": 35
+  },
+  {
+    "id": 166,
+    "title": "Пансионаты и санатории России и СНГ",
+    "parent_id": 109,
+    "category_type_id": 35
+  },
+  {
+    "id": 167,
+    "title": "Выпускной вечер",
+    "parent_id": null,
+    "category_type_id": 35
+  },
+  {
+    "id": 168,
+    "title": "Comedy Woman",
+    "parent_id": 30,
+    "category_type_id": 57
+  },
+  {
+    "id": 169,
+    "title": "Вокал",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 170,
+    "title": "Рок-н-ролл",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 171,
+    "title": "Хореография",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 172,
+    "title": "Клуб",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 173,
+    "title": "Музыкальный спектакль",
+    "parent_id": 46,
+    "category_type_id": 68
+  },
+  {
+    "id": 174,
+    "title": "Фолк",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 175,
+    "title": "Дискотека",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 176,
+    "title": "Панк",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 177,
+    "title": "Трип-Рок",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 178,
+    "title": "Бодибилдинг",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 179,
+    "title": "Пьеса",
+    "parent_id": null,
+    "category_type_id": 68
+  },
+  {
+    "id": 180,
+    "title": "Российская Премьер Лига",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 181,
+    "title": "Лига Чемпионов",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 182,
+    "title": "Кубок России",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 183,
+    "title": "Романс",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 184,
+    "title": "Континентальная Хоккейная Лига",
+    "parent_id": 49,
+    "category_type_id": 51
+  },
+  {
+    "id": 185,
+    "title": "Инди-поп",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 186,
+    "title": "Тяжелая атлетика",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 187,
+    "title": "Танковый Биатлон",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 188,
+    "title": "Футбольная Национальная Лига",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 189,
+    "title": "Детектив",
+    "parent_id": null,
+    "category_type_id": 68
+  },
+  {
+    "id": 191,
+    "title": "Концeрт",
+    "parent_id": null,
+    "category_type_id": 68
+  },
+  {
+    "id": 192,
+    "title": "Кубок Первого Канала",
+    "parent_id": 49,
+    "category_type_id": 51
+  },
+  {
+    "id": 193,
+    "title": "Лига Наций УЕФА",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 194,
+    "title": "Лига Европы",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 195,
+    "title": "Гала-концерт",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 196,
+    "title": "Евролига",
+    "parent_id": 69,
+    "category_type_id": 51
+  },
+  {
+    "id": 197,
+    "title": "Единая Лига ВТБ",
+    "parent_id": 69,
+    "category_type_id": 51
+  },
+  {
+    "id": 198,
+    "title": "Чемпионат мира по хоккею",
+    "parent_id": 49,
+    "category_type_id": 51
+  },
+  {
+    "id": 199,
+    "title": "Кубок Европы",
+    "parent_id": 69,
+    "category_type_id": 51
+  },
+  {
+    "id": 200,
+    "title": "ЧЕ 2020",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 201,
+    "title": "Группа B Евро-2020",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 202,
+    "title": "Танго-спектакль",
+    "parent_id": 46,
+    "category_type_id": 68
+  },
+  {
+    "id": 203,
+    "title": "Литературные чтения",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 204,
+    "title": "Керлинг",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 205,
+    "title": "Чемпионат мира по футболу",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 206,
+    "title": "Квалификации Чемпионата мира по футболу",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 207,
+    "title": "Коллективное сочинение",
+    "parent_id": null,
+    "category_type_id": 68
+  },
+  {
+    "id": 208,
+    "title": "Плей-офф КХЛ",
+    "parent_id": 49,
+    "category_type_id": 51
+  },
+  {
+    "id": 209,
+    "title": "Кикбоксинг",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 210,
+    "title": "Самбо",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 211,
+    "title": "Авторская музыка",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 212,
+    "title": "Лекция",
+    "parent_id": 77,
+    "category_type_id": 35
+  },
+  {
+    "id": 213,
+    "title": "Сертификаты",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 214,
+    "title": "Сертификат",
+    "parent_id": null,
+    "category_type_id": 35
+  },
+  {
+    "id": 216,
+    "title": "Группа E Евро-2020",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 217,
+    "title": "1/4 финала Евро-2020",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 218,
+    "title": "1/8 финала Евро-2020",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 219,
+    "title": "1/4 финала Единой Лиги ВТБ",
+    "parent_id": 69,
+    "category_type_id": 51
+  },
+  {
+    "id": 220,
+    "title": "Группа A Евро-2020",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 225,
+    "title": "Группа F Евро-2020",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 226,
+    "title": "Группа D Евро-2020",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 229,
+    "title": "1/2 финала Евро-2020",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 230,
+    "title": "Группа C Евро-2020",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 231,
+    "title": "Финал Евро-2020",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 232,
+    "title": "Пластический спектакль",
+    "parent_id": 46,
+    "category_type_id": 68
+  },
+  {
+    "id": 233,
+    "title": "КВН",
+    "parent_id": 30,
+    "category_type_id": 57
+  },
+  {
+    "id": 234,
+    "title": "1/2 финала Единой Лиги ВТБ",
+    "parent_id": 69,
+    "category_type_id": 51
+  },
+  {
+    "id": 235,
+    "title": "Активный отдых",
+    "parent_id": null,
+    "category_type_id": 35
+  },
+  {
+    "id": 236,
+    "title": "Зоопарк",
+    "parent_id": null,
+    "category_type_id": 44
+  },
+  {
+    "id": 245,
+    "title": "Экспериментальный театр",
+    "parent_id": null,
+    "category_type_id": 68
+  },
+  {
+    "id": 246,
+    "title": "Финал Единой Лиги ВТБ",
+    "parent_id": 69,
+    "category_type_id": 51
+  },
+  {
+    "id": 248,
+    "title": "Кубок Мэра",
+    "parent_id": 49,
+    "category_type_id": 51
+  },
+  {
+    "id": 249,
+    "title": "Пляжный футбол",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 250,
+    "title": "ФИФА Пляжный футбол Чемпионат Мира",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 251,
+    "title": "Континентальная Хоккейная Лига. Кубок Открытия",
+    "parent_id": 49,
+    "category_type_id": 51
+  },
+  {
+    "id": 252,
+    "title": "Лига Конференций УЕФА",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 253,
+    "title": "Кубок Губернатора Челябинской области",
+    "parent_id": 49,
+    "category_type_id": 51
+  },
+  {
+    "id": 254,
+    "title": "Sochi Hockey Open",
+    "parent_id": 49,
+    "category_type_id": 51
+  },
+  {
+    "id": 255,
+    "title": "Кубок Республики Башкортостан",
+    "parent_id": 49,
+    "category_type_id": 51
+  },
+  {
+    "id": 256,
+    "title": "TANECO Кубок чемпионов",
+    "parent_id": 49,
+    "category_type_id": 51
+  },
+  {
+    "id": 257,
+    "title": "Квалификации Лиги Чемпионов",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 258,
+    "title": "Парк",
+    "parent_id": null,
+    "category_type_id": 44
+  },
+  {
+    "id": 259,
+    "title": "Хореографический спектакль",
+    "parent_id": 46,
+    "category_type_id": 68
+  },
+  {
+    "id": 260,
+    "title": "Конференция",
+    "parent_id": 77,
+    "category_type_id": 35
+  },
+  {
+    "id": 268,
+    "title": "Кубок России по фигурному катанию",
+    "parent_id": 56,
+    "category_type_id": 51
+  },
+  {
+    "id": 269,
+    "title": "2021 Woman Beach Soccer Intercontinental Cup",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 270,
+    "title": "ФИФА Пляжный футбол Чемпионат Мира. Группа A",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 271,
+    "title": "ФИФА Пляжный футбол Чемпионат Мира. Группа B",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 272,
+    "title": "ФИФА Пляжный футбол Чемпионат Мира. Группа C",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 273,
+    "title": "ФИФА Пляжный футбол Чемпионат Мира. Группа D",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 274,
+    "title": "ФИФА Пляжный футбол Чемпионат Мира. Плей-офф",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 275,
+    "title": "Турнир имени Пучкова",
+    "parent_id": 49,
+    "category_type_id": 51
+  },
+  {
+    "id": 276,
+    "title": "Автоспорт",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 277,
+    "title": "1/2 финала Суперкубка Единой лиги ВТБ",
+    "parent_id": 69,
+    "category_type_id": 51
+  },
+  {
+    "id": 278,
+    "title": "Суперкубок Единой лиги ВТБ",
+    "parent_id": 69,
+    "category_type_id": 51
+  },
+  {
+    "id": 279,
+    "title": "Финал Суперкубка Единой лиги ВТБ",
+    "parent_id": 69,
+    "category_type_id": 51
+  },
+  {
+    "id": 280,
+    "title": "Танцевальный спектакль",
+    "parent_id": 46,
+    "category_type_id": 68
+  },
+  {
+    "id": 281,
+    "title": "Чемпионат мира по волейболу",
+    "parent_id": 98,
+    "category_type_id": 51
+  },
+  {
+    "id": 282,
+    "title": "Чемпионат мира по волейболу. 1 групповой этап",
+    "parent_id": 98,
+    "category_type_id": 51
+  },
+  {
+    "id": 283,
+    "title": "Чемпионат мира по волейболу. 2 групповой этап",
+    "parent_id": 98,
+    "category_type_id": 51
+  },
+  {
+    "id": 284,
+    "title": "Чемпионат мира по волейболу. Финал шести",
+    "parent_id": 98,
+    "category_type_id": 51
+  },
+  {
+    "id": 285,
+    "title": "Чемпионат мира по волейболу. Полуфинал",
+    "parent_id": 98,
+    "category_type_id": 51
+  },
+  {
+    "id": 286,
+    "title": "Чемпионат мира по волейболу. Матч за 3 место",
+    "parent_id": 98,
+    "category_type_id": 51
+  },
+  {
+    "id": 287,
+    "title": "Чемпионат мира по волейболу. Финал",
+    "parent_id": 98,
+    "category_type_id": 51
+  },
+  {
+    "id": 288,
+    "title": "Чемпионат мира по волейболу. Матч открытия",
+    "parent_id": 98,
+    "category_type_id": 51
+  },
+  {
+    "id": 289,
+    "title": "Чемпионат мира по хоккею 2022",
+    "parent_id": 49,
+    "category_type_id": 51
+  },
+  {
+    "id": 293,
+    "title": "Чемпионат мира по хоккею 2022. Группа А",
+    "parent_id": 49,
+    "category_type_id": 51
+  },
+  {
+    "id": 295,
+    "title": "Чемпионат мира по хоккею 2022. Группа В",
+    "parent_id": 49,
+    "category_type_id": 51
+  },
+  {
+    "id": 296,
+    "title": "Чемпионат мира по хоккею 2022. 1/4 финала",
+    "parent_id": 49,
+    "category_type_id": 51
+  },
+  {
+    "id": 297,
+    "title": "Чемпионат мира по хоккею 2022. 1/2 финала",
+    "parent_id": 49,
+    "category_type_id": 51
+  },
+  {
+    "id": 306,
+    "title": "Чемпионат мира по хоккею 2022. Матч за 3-е место",
+    "parent_id": 49,
+    "category_type_id": 51
+  },
+  {
+    "id": 310,
+    "title": "Чемпионат мира по хоккею 2022. Финал",
+    "parent_id": 49,
+    "category_type_id": 51
+  },
+  {
+    "id": 311,
+    "title": "Каток",
+    "parent_id": null,
+    "category_type_id": 35
+  },
+  {
+    "id": 312,
+    "title": "Турнир “Олимпийская пауза“",
+    "parent_id": 49,
+    "category_type_id": 51
+  },
+  {
+    "id": 313,
+    "title": "Финал КХЛ",
+    "parent_id": 49,
+    "category_type_id": 51
+  },
+  {
+    "id": 314,
+    "title": "Чемпионат мира по футболу 2022",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 315,
+    "title": "1/8 финала ЧМ 2022",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 318,
+    "title": "1/4 финала ЧМ 2022",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 319,
+    "title": "1/2 финала ЧМ 2022",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 320,
+    "title": "Финал ЧМ 2022",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 321,
+    "title": "Матч за 3 место ЧМ 2022",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 322,
+    "title": "Чемпионат мира по футболу. Пакеты",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 323,
+    "title": "Плавание",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 324,
+    "title": "Детский квест",
+    "parent_id": null,
+    "category_type_id": 44
+  },
+  {
+    "id": 325,
+    "title": "Планетарий",
+    "parent_id": null,
+    "category_type_id": 35
+  },
+  {
+    "id": 326,
+    "title": "Суперкубок Франции",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 327,
+    "title": "Израильская Премьер Лига",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 328,
+    "title": "Экстремальный спорт",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 329,
+    "title": "Фаду",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 331,
+    "title": "Группа A ЧМ 2022",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 332,
+    "title": "Группа B ЧМ 2022",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 333,
+    "title": "Группа C ЧМ 2022",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 334,
+    "title": "Группа D ЧМ 2022",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 335,
+    "title": "Группа E ЧМ 2022",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 336,
+    "title": "Группа F ЧМ 2022",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 337,
+    "title": "Группа G ЧМ 2022",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 338,
+    "title": "Группа H ЧМ 2022",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 339,
+    "title": "Велоспорт",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 340,
+    "title": "Dubai Super Cup 2022",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 341,
+    "title": "Winline Кубок России",
+    "parent_id": 69,
+    "category_type_id": 51
+  },
+  {
+    "id": 342,
+    "title": "1/4 Winline Кубок России",
+    "parent_id": 69,
+    "category_type_id": 51
+  },
+  {
+    "id": 378,
+    "title": "Плей-офф КХЛ. 1/4 финала - Запад",
+    "parent_id": 49,
+    "category_type_id": 51
+  },
+  {
+    "id": 379,
+    "title": "Плей-офф КХЛ. 1/4 финала - Восток",
+    "parent_id": 49,
+    "category_type_id": 51
+  },
+  {
+    "id": 380,
+    "title": "Плей-офф КХЛ. 1/2 финала - Запад",
+    "parent_id": 49,
+    "category_type_id": 51
+  },
+  {
+    "id": 381,
+    "title": "Плей-офф КХЛ. 1/2 финала - Восток",
+    "parent_id": 49,
+    "category_type_id": 51
+  },
+  {
+    "id": 382,
+    "title": "Плей-офф КХЛ. Финал - Запад",
+    "parent_id": 49,
+    "category_type_id": 51
+  },
+  {
+    "id": 383,
+    "title": "Плей-офф КХЛ. Финал - Восток",
+    "parent_id": 49,
+    "category_type_id": 51
+  },
+  {
+    "id": 385,
+    "title": "Плей-офф КХЛ. Финал Кубка Гагарина",
+    "parent_id": 49,
+    "category_type_id": 51
+  },
+  {
+    "id": 386,
+    "title": "Кубок России. 1/2 финала (Путь РПЛ)",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 387,
+    "title": "Кубок России. 1/4 финала. Этап 2 (Путь регионов)",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 388,
+    "title": "Кубок России. 1/2 финала. Этап 1 (Путь регионов)",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 389,
+    "title": "Кубок России. 1/2 финала. Этап 2 (Путь регионов)",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 390,
+    "title": "Кубок России. Финал (Путь РПЛ)",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 391,
+    "title": "Кубок России. Финал. Этап 1 (Путь регионов)",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 392,
+    "title": "Кубок России. Финал. Этап 2 (Путь регионов)",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 393,
+    "title": "Кубок России. Суперфинал",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 394,
+    "title": "Евро 2024",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 395,
+    "title": "ЧМ по боксу 2023",
+    "parent_id": 148,
+    "category_type_id": 51
+  },
+  {
+    "id": 396,
+    "title": "Первая лига",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 397,
+    "title": "Летние Олимпийские Игры 2024",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 398,
+    "title": "Цирковое шоу",
+    "parent_id": 30,
+    "category_type_id": 57
+  },
+  {
+    "id": 399,
+    "title": "Лига Чемпионов. Полуфинал",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 400,
+    "title": "Лига Европы. Полуфинал",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 401,
+    "title": "Гран-при России по фигурному катанию",
+    "parent_id": 56,
+    "category_type_id": 51
+  },
+  {
+    "id": 402,
+    "title": "Чемпионат России по волейболу среди женщин",
+    "parent_id": 98,
+    "category_type_id": 51
+  },
+  {
+    "id": 403,
+    "title": "Чемпионат России по волейболу среди мужчин",
+    "parent_id": 98,
+    "category_type_id": 51
+  },
+  {
+    "id": 404,
+    "title": "Мафия",
+    "parent_id": null,
+    "category_type_id": 35
+  },
+  {
+    "id": 405,
+    "title": "Стрельба из лука",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 417,
+    "title": "Художественная гимнастикa",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 418,
+    "title": "Художественное плавание",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 419,
+    "title": "Лёгкая атлетика",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 420,
+    "title": "Легкая атлетика - Ходьба",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 421,
+    "title": "Легкая атлетика - Марафон",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 422,
+    "title": "Бадминтон",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 423,
+    "title": "Баскетбол 3x3",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 424,
+    "title": "Пляжный волейбол",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 427,
+    "title": "Бокc",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 428,
+    "title": "Брейк-данс",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 429,
+    "title": "Гребля на каноэ - слалом",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 430,
+    "title": "Гребля на каноэ - спринт",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 431,
+    "title": "Велоспорт BMX - фристайл",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 432,
+    "title": "Велоспорт BMX - гонки",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 433,
+    "title": "Горный велоспорт",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 434,
+    "title": "Велоспорт по шоссе - гонка",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 435,
+    "title": "Велоспорт по шоссе - на время",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 436,
+    "title": "Трековый велоспорт",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 437,
+    "title": "Прыжки в воду",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 438,
+    "title": "Конный спорт",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 439,
+    "title": "Конный спорт - конкур",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 440,
+    "title": "Конный спорт - прыжки",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 441,
+    "title": "Фехтованиe",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 442,
+    "title": "Футбoл",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 443,
+    "title": "Гольф",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 444,
+    "title": "Гандбoл",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 445,
+    "title": "Хоккeй",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 446,
+    "title": "Дзюдо",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 447,
+    "title": "Марафонское плавание",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 448,
+    "title": "Современное пятиборье - фехтование",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 449,
+    "title": "Современное пятиборье - все виды",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 450,
+    "title": "Гребля",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 451,
+    "title": "Регби-7",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 452,
+    "title": "Художественная гимнастика - ритмическая",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 453,
+    "title": "Парусный спорт",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 454,
+    "title": "Стрельба",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 455,
+    "title": "Скейтбординг",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 456,
+    "title": "Софтбол",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 457,
+    "title": "Спортивное скалолазание",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 458,
+    "title": "Серфинг",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 459,
+    "title": "Настольный теннис",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 460,
+    "title": "Тхэквондо",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 461,
+    "title": "Тенниc",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 462,
+    "title": "Гимнастика на батуте",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 463,
+    "title": "Триатлон",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 464,
+    "title": "Волейбoл",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 465,
+    "title": "Водное поло",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 466,
+    "title": "Тяжелая атлетикa",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 467,
+    "title": "Вольная борьба",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 468,
+    "title": "Греко-римская борьба",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 469,
+    "title": "Плаваниe",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 470,
+    "title": "Баскетбoл",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 471,
+    "title": "Музеи",
+    "parent_id": 109,
+    "category_type_id": 35
+  },
+  {
+    "id": 472,
+    "title": "Конкурс красоты",
+    "parent_id": null,
+    "category_type_id": 35
+  },
+  {
+    "id": 473,
+    "title": "Квиз",
+    "parent_id": null,
+    "category_type_id": 35
+  },
+  {
+    "id": 474,
+    "title": "Чемпионат Европы по футболу 2023. Юноши",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 475,
+    "title": "Кубок PARI Премьер",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 476,
+    "title": "Суперкубок России",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 477,
+    "title": "Суперкубок УЕФА",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 478,
+    "title": "Вечеринка",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 479,
+    "title": "BetBoom МКС",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 480,
+    "title": "Winline Медиалига",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 481,
+    "title": "Товарищеский матч",
+    "parent_id": 49,
+    "category_type_id": 51
+  },
+  {
+    "id": 482,
+    "title": "Кубок России. Групповой этап",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 485,
+    "title": "Товарищеский Матч",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 486,
+    "title": "БЕТСИТИ Кубок Наций",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 487,
+    "title": "K-pop",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 488,
+    "title": "Ралли-кросс",
+    "parent_id": 99,
+    "category_type_id": 51
+  },
+  {
+    "id": 489,
+    "title": "Дрифт",
+    "parent_id": 99,
+    "category_type_id": 51
+  },
+  {
+    "id": 492,
+    "title": "Бaдминтон",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 493,
+    "title": "Дзюдo",
+    "parent_id": 573,
+    "category_type_id": 51
+  },
+  {
+    "id": 494,
+    "title": "Мини-футбол",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 496,
+    "title": "Настольный тенниc",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 497,
+    "title": "Тхэквондo",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 498,
+    "title": "Спортивная борьба",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 499,
+    "title": "Фан-тур",
+    "parent_id": null,
+    "category_type_id": 35
+  },
+  {
+    "id": 500,
+    "title": "Реслинг",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 501,
+    "title": "Кубок Блинова",
+    "parent_id": 49,
+    "category_type_id": 51
+  },
+  {
+    "id": 502,
+    "title": "Чемпионат мира по регби 2023",
+    "parent_id": 154,
+    "category_type_id": 51
+  },
+  {
+    "id": 503,
+    "title": "Кубок сильнейших",
+    "parent_id": 43,
+    "category_type_id": 51
+  },
+  {
+    "id": 504,
+    "title": "Кубок мира по Регби 2023. Группа A",
+    "parent_id": 154,
+    "category_type_id": 51
+  },
+  {
+    "id": 505,
+    "title": "Кубок мира по Регби 2023. Группа B",
+    "parent_id": 154,
+    "category_type_id": 51
+  },
+  {
+    "id": 506,
+    "title": "Кубок мира по Регби 2023. Группа С",
+    "parent_id": 154,
+    "category_type_id": 51
+  },
+  {
+    "id": 507,
+    "title": "Кубок мира по Регби 2023. Группа D",
+    "parent_id": 154,
+    "category_type_id": 51
+  },
+  {
+    "id": 508,
+    "title": "Кубок мира по Регби 2023. 1/4 финала",
+    "parent_id": 154,
+    "category_type_id": 51
+  },
+  {
+    "id": 509,
+    "title": "Кубок мира по Регби 2023. 1/2 финала",
+    "parent_id": 154,
+    "category_type_id": 51
+  },
+  {
+    "id": 510,
+    "title": "Кубок мира по Регби 2023. Финал",
+    "parent_id": 154,
+    "category_type_id": 51
+  },
+  {
+    "id": 511,
+    "title": "Кубок мира по Регби 2023. Матч за 3-е место",
+    "parent_id": 154,
+    "category_type_id": 51
+  },
+  {
+    "id": 512,
+    "title": "Olimpbet МХЛ - регулярный чемпионат",
+    "parent_id": 49,
+    "category_type_id": 51
+  },
+  {
+    "id": 513,
+    "title": "Грэпплинг",
+    "parent_id": 498,
+    "category_type_id": 51
+  },
+  {
+    "id": 514,
+    "title": "Лазерное шоу",
+    "parent_id": 30,
+    "category_type_id": 57
+  },
+  {
+    "id": 516,
+    "title": "Товарищеский мaтч",
+    "parent_id": 69,
+    "category_type_id": 51
+  },
+  {
+    "id": 517,
+    "title": "Чемпионат Грузии по футболу",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 518,
+    "title": "Чемпионат Армении по футболу",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 519,
+    "title": "Всероссийская хоккейная лига",
+    "parent_id": 49,
+    "category_type_id": 51
+  },
+  {
+    "id": 520,
+    "title": "Азербайджанская Премьер Лига",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 521,
+    "title": "Кулачные бои",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 522,
+    "title": "Лига Чемпионов. Групповая стадия",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 523,
+    "title": "Мотоспорт",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 524,
+    "title": "Мотокросс",
+    "parent_id": 523,
+    "category_type_id": 51
+  },
+  {
+    "id": 525,
+    "title": "Фонбет Матч звезд КХЛ",
+    "parent_id": 49,
+    "category_type_id": 51
+  },
+  {
+    "id": 526,
+    "title": "Лига Чемпионов. Финал",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 527,
+    "title": "Благотворительный концерт",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 528,
+    "title": "Регги",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 529,
+    "title": "Чемпионат Турции. Суперлига. Женщины",
+    "parent_id": 69,
+    "category_type_id": 51
+  },
+  {
+    "id": 530,
+    "title": "Чемпионат Турции. Суперлига",
+    "parent_id": 69,
+    "category_type_id": 51
+  },
+  {
+    "id": 531,
+    "title": "Матч звёзд FONBET",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 532,
+    "title": "Трансфер",
+    "parent_id": null,
+    "category_type_id": 35
+  },
+  {
+    "id": 533,
+    "title": "Кубок России. 1/4 финала (Путь РПЛ)",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 534,
+    "title": "Кубок России. 1/4 финала (Путь регионов)",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 535,
+    "title": "Бои на льду",
+    "parent_id": 49,
+    "category_type_id": 51
+  },
+  {
+    "id": 536,
+    "title": "Бал",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 537,
+    "title": "Чемпионата России по хоккею с мячом",
+    "parent_id": 49,
+    "category_type_id": 51
+  },
+  {
+    "id": 538,
+    "title": "Кубок Америки 2024",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 539,
+    "title": "Опера-квест",
+    "parent_id": null,
+    "category_type_id": 44
+  },
+  {
+    "id": 540,
+    "title": "Кубок Азии",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 541,
+    "title": "Кубок Эр-Рияда",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 542,
+    "title": "Евро 2024 - Группа A",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 543,
+    "title": "Евро 2024 - Группа B",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 544,
+    "title": "Евро 2024 - Группа C",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 545,
+    "title": "Евро 2024 - Группа D",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 546,
+    "title": "Евро 2024 - Группа E",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 547,
+    "title": "Евро 2024 - Группа F",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 548,
+    "title": "1/8 финала Евро 2024",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 549,
+    "title": "1/4 финала Евро 2024",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 550,
+    "title": "1/2 финала Евро 2024",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 551,
+    "title": "Финал Евро 2024",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 552,
+    "title": "Актерская премия им. Андрея Миронова",
+    "parent_id": null,
+    "category_type_id": 57
+  },
+  {
+    "id": 556,
+    "title": "ФИФА Пляжный футбол Чемпионат Мира. 1/4 финалa",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 557,
+    "title": "ФИФА Пляжный футбол Чемпионат Мира. 1/2 финалa",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 559,
+    "title": "ФИФА Пляжный футбол Чемпионат Мира. Финaл",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 560,
+    "title": "Чемпионат Европы по баскетболу 2025 - квалификация",
+    "parent_id": 69,
+    "category_type_id": 51
+  },
+  {
+    "id": 561,
+    "title": "Чемпионат Европы по Регби 2024",
+    "parent_id": 154,
+    "category_type_id": 51
+  },
+  {
+    "id": 562,
+    "title": "Чемпионат мира по футболу 2026",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 563,
+    "title": "Падел-теннис",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 564,
+    "title": "Молодежный чемпионат Единой Лиги ВТБ",
+    "parent_id": 69,
+    "category_type_id": 51
+  },
+  {
+    "id": 565,
+    "title": "Формула 1",
+    "parent_id": 276,
+    "category_type_id": 51
+  },
+  {
+    "id": 566,
+    "title": "Бильярд",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 567,
+    "title": "Суперкубок Саудовской Аравии",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 568,
+    "title": "Футзал",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 569,
+    "title": "Olimpbet МХЛ - плей-офф",
+    "parent_id": 49,
+    "category_type_id": 51
+  },
+  {
+    "id": 570,
+    "title": "Всемирные игры дружбы",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 571,
+    "title": "Турнир развития УЕФА",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 572,
+    "title": "Чемпионат России. Суперлига-2024",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 573,
+    "title": "Игры БРИКС 2024",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 588,
+    "title": "Фехтовaние",
+    "parent_id": 573,
+    "category_type_id": 51
+  },
+  {
+    "id": 589,
+    "title": "Каратэ",
+    "parent_id": 573,
+    "category_type_id": 51
+  },
+  {
+    "id": 590,
+    "title": "Спортивная гимнастика",
+    "parent_id": 573,
+    "category_type_id": 51
+  },
+  {
+    "id": 591,
+    "title": "Плaвaние",
+    "parent_id": 573,
+    "category_type_id": 51
+  },
+  {
+    "id": 596,
+    "title": "Синхронное плавание",
+    "parent_id": 573,
+    "category_type_id": 51
+  },
+  {
+    "id": 597,
+    "title": "Прыжки в вoду",
+    "parent_id": 573,
+    "category_type_id": 51
+  },
+  {
+    "id": 598,
+    "title": "Ушу",
+    "parent_id": 573,
+    "category_type_id": 51
+  },
+  {
+    "id": 599,
+    "title": "Сaмбo",
+    "parent_id": 573,
+    "category_type_id": 51
+  },
+  {
+    "id": 600,
+    "title": "Бaдминтoн",
+    "parent_id": 573,
+    "category_type_id": 51
+  },
+  {
+    "id": 601,
+    "title": "Спортивнaя борьбa",
+    "parent_id": 573,
+    "category_type_id": 51
+  },
+  {
+    "id": 602,
+    "title": "Корэш",
+    "parent_id": 573,
+    "category_type_id": 51
+  },
+  {
+    "id": 603,
+    "title": "Борьба на поясах",
+    "parent_id": 573,
+    "category_type_id": 51
+  },
+  {
+    "id": 610,
+    "title": "Стрельбa",
+    "parent_id": null,
+    "category_type_id": 51
+  },
+  {
+    "id": 612,
+    "title": "Тeннис",
+    "parent_id": 573,
+    "category_type_id": 51
+  },
+  {
+    "id": 613,
+    "title": "Легкaя атлетикa",
+    "parent_id": 573,
+    "category_type_id": 51
+  },
+  {
+    "id": 614,
+    "title": "Настольный тeннис",
+    "parent_id": 573,
+    "category_type_id": 51
+  },
+  {
+    "id": 615,
+    "title": "Бокc",
+    "parent_id": 573,
+    "category_type_id": 51
+  },
+  {
+    "id": 616,
+    "title": "Баскетбольное двоеборье",
+    "parent_id": 573,
+    "category_type_id": 51
+  },
+  {
+    "id": 621,
+    "title": "Гpeбнoй спoрт",
+    "parent_id": 573,
+    "category_type_id": 51
+  },
+  {
+    "id": 622,
+    "title": "Чемпионат Саудовской Аравии",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 623,
+    "title": "Братский кубок",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 624,
+    "title": "Худoжественная гимнастикa",
+    "parent_id": 573,
+    "category_type_id": 51
+  },
+  {
+    "id": 625,
+    "title": "Тяжелaя aтлетикa",
+    "parent_id": 573,
+    "category_type_id": 51
+  },
+  {
+    "id": 626,
+    "title": "Футбольное двоеборье",
+    "parent_id": 573,
+    "category_type_id": 51
+  },
+  {
+    "id": 627,
+    "title": "Кoнный спoрт",
+    "parent_id": 573,
+    "category_type_id": 51
+  },
+  {
+    "id": 628,
+    "title": "Гребля на байдарках и каноэ",
+    "parent_id": 573,
+    "category_type_id": 51
+  },
+  {
+    "id": 629,
+    "title": "Баскетбол. Олимпийский отборочный турнир",
+    "parent_id": 397,
+    "category_type_id": 51
+  },
+  {
+    "id": 630,
+    "title": "Мемориал И. Х. Ромазана",
+    "parent_id": 49,
+    "category_type_id": 51
+  },
+  {
+    "id": 631,
+    "title": "Winline Летний Кубок",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 632,
+    "title": "Чемпионат Европы УЕФА среди юношей",
+    "parent_id": 39,
+    "category_type_id": 51
+  },
+  {
+    "id": 633,
+    "title": "Суперкубок Европы по регби",
+    "parent_id": 154,
+    "category_type_id": 51
+  }
+]
