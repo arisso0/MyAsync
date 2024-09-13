@@ -1,0 +1,100 @@
+asyncapi: '2.0.0'
+info:
+  title: Order Events
+  version: '1.0.0'
+  description: События для обработки заказов
+channels:
+  order/created:
+    publish:
+      summary: Публикация события создания заказа
+      operationId: orderCreated
+      message:
+        contentType: application/json
+        payload:
+          $ref: '#/components/schemas/OrderCreatedEvent'
+components:
+  schemas:
+    OrderCreatedEvent:
+      type: object
+      properties:
+        orderId:
+          type: string
+        userId:
+          type: string
+        items:
+          type: array
+          items:
+            type: object
+            properties:
+              itemId:
+                type: string
+              quantity:
+                type: integer
+              price:
+                type: number
+        totalAmount:
+          type: number
+        createdAt:
+          type: string
+          format: date-time
+
+#openapi: 3.0.0
+#info:
+#  title: Order Service API
+#  description: API для создания заказов и публикации событий в RabbitMQ
+#  version: 1.0.0
+#paths:
+#  /orders:
+#    post:
+#      tags:
+#        - Places
+#      summary: Создать новую локацию
+#      description: |
+#        Создание локации
+#        - Routing key: `location_created`
+#        - Очередь: `pages_location_created`
+#      requestBody:
+#        required: true
+#        content:
+#          application/json:
+#            schema:
+#              $ref: '#/components/schemas/CreateOrderRequest'
+#      responses:
+#        '200':
+#          description: Заказ успешно создан и событие отправлено в очередь для обработки.
+##paths:
+##  /orders:
+##    post:
+##      summary: Создать новый заказ
+##      description: Создает новый заказ и публикует событие в RabbitMQ
+##      requestBody:
+##        required: true
+##        content:
+##          application/json:
+##            schema:
+##              $ref: '#/components/schemas/CreateOrderRequest'
+##      responses:
+##        '200':
+##          description: Заказ успешно создан
+##        '500':
+##          description: Ошибка создания заказа
+#components:
+#  schemas:
+#    CreateOrderRequest:
+#      type: object
+#      properties:
+#        userId:
+#          type: string
+#        items:
+#          type: array
+#          items:
+#            $ref: '#/components/schemas/OrderItem'
+#    OrderItem:
+#      type: object
+#      properties:
+#        itemId:
+#          type: string
+#        quantity:
+#          type: integer
+#        price:
+#          type: number
